@@ -13,7 +13,7 @@ I am James Lawrence Samante, with a flair for coding and database management ski
 ---
 
 ## 📜 Certifications
-- [NoSQL and DBaaS 101](https://example.com)
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/6017b23c995d481cb00300791d16dc4e)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://example.com)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://example.com)
 
