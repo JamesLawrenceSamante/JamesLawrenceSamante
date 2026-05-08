@@ -38,7 +38,7 @@ I am James Lawrence Samante, with a flair for coding and database management ski
 
 ## 📫 Reach Me
 - Email: jameslawrencesamante@gmail.com
-
+- Linkedin [James Lawrence Samante](https://www.linkedin.com/in/james-lawrence-samante-716316409?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 ---
 
 ## ✨ Fun Fact
